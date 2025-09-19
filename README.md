@@ -1,7 +1,7 @@
 # **Python Exploratory Data Analysis - Instacart Basket**
 
 ## Introduction
-Instacart is an online grocery app that is seeking deeper insights into customer behavior to better understand the diversity of customers and their purchasing patterns. Its stakeholders are most interested in implementing a targeted marketing strategy instead of a one-size-fits-all marketing approach to improve product sales. This GitHub repository will show the initial data exploration and analysis conducted on the 2017 sales data used to match specific customer segments with the appropriate products in an effort to guide effective campaign design and improve sales strategies.
+Instacart is an online grocery app that is seeking deeper insights into customer behavior to better understand the diversity of customers and their purchasing patterns. Its stakeholders are most interested in implementing a targeted marketing strategy instead of a one-size-fits-all marketing approach to improve product sales. This GitHub repository showcases the initial data exploration and analysis of the 2017 sales data, aimed at gaining insights into purchasing patterns that align customer segments with effective marketing campaign designs in an effort to enhance sales strategies.
 
 ## Data
 The data set used for this analysis included [The Instacart Online Grocery Shopping Data Set 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) and [Customer Data Set]( https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) divided as follows:
@@ -12,7 +12,7 @@ The data set used for this analysis included [The Instacart Online Grocery Shopp
 5. Department names data.
 
 ## Context
-The files included were part of a project created by Career Foundry that provided me with hands-on experience in using real-world data gathered from Instacart and simulated customer and price data (developed by Career Foundry for the Data Analytics Program). With it, I deepened my knowledge of Python and its key libraries like Pandas, Numpy, Matplotlib, and Seaborn. 
+The files included were part of a project created by Career Foundry that provided me with hands-on experience in using real-world data gathered from Instacart and simulated customer and price data (developed by Career Foundry for the Data Analytics Program). With it, I deepened my knowledge of Python and its key libraries like Pandas, Numpy, Scipy, Matplotlib, and Seaborn. 
 
 ## Analysis Deliverables:
 1. Project Management: A project brief document describing management expectations.
